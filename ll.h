@@ -165,7 +165,7 @@ void PrintlistR( LLPtr currentPtr )
         puts( "List is empty.\n" );
     } // end if
     else {
-        puts( "The reversed list is:" ); // ปรับข้อความนำให้เข้ากับการปริ้นท์ย้อนกลับ
+        //puts( "The reversed list is:" ); // ปรับข้อความนำให้เข้ากับการปริ้นท์ย้อนกลับ
 
         LLPtr tempPtr = currentPtr;
 
