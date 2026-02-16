@@ -48,7 +48,6 @@ int main(void) {
       scanf("%u", &choice);
    }
 
-   puts("Clear all nodes");
    clearList(&startPtr);
    puts("End of run.");
    return 0;
